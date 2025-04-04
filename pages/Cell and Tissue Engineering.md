@@ -1,0 +1,10 @@
+- Lance Kam
+	- https://scholar.google.com/citations?user=J5wwvFMAAAAJ&hl=en
+- Harris Wang
+	- https://scholar.google.com/citations?hl=en&user=RFmkZ-EAAAAJ
+- Parisa Yousefpour
+	- https://scholar.google.com/citations?hl=en&user=XBDuYaAAAAAJ
+- Yvon Woappi
+	- https://scholar.google.com/citations?user=kjMUYYwAAAAJ&hl=en
+- Santiago Correa
+	- https://scholar.google.com/citations?hl=en&user=8P1RpisAAAAJ

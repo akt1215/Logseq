@@ -1,0 +1,6 @@
+- ![AI_Precision_Psychiatry_Proposal - Google Docs.pdf](../assets/AI_Precision_Psychiatry_Proposal_-_Google_Docs_1743731177468_0.pdf)
+- [[AI-Powered Brain Mapping for Psychiatric Diagnostics]]
+- [[AI-Driven DSM evaluation using eye-tracking]]
+-
+-
+-

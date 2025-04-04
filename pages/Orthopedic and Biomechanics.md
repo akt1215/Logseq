@@ -1,0 +1,12 @@
+- Nadeen O. Chahine
+	- https://scholar.google.com/citations?hl=en&user=FXqIMhEAAAAJ
+- Clark T. Hung
+	- https://scholar.google.com/citations?hl=en&user=_qBJ1I0AAAAJ
+- Stavros Thomopoulos
+	- https://scholar.google.com/citations?user=CZKeby8AAAAJ&hl=en
+- Andrew Laine
+	- https://scholar.google.com/citations?hl=en&user=_DmtZtkAAAAJ
+- Gerald A Ateshian
+	- https://scholar.google.com/citations?user=OoFQXQQAAAAJ&hl=en
+-
+-
