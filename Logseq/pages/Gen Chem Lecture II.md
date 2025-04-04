@@ -1,0 +1,2 @@
+- Be attentive during the recitation
+- Focus during class because it would require more work to catch up later

@@ -1,0 +1,3 @@
+- Since I only have physics on Tu, Thu, I should review the class material of the day later that day
+- Go to Yuri office hours
+- Go to the recitations

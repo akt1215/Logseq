@@ -1,0 +1,8 @@
+- Make sure I at least get A
+- **Do not just focus on the grades but also the learning itself**
+- **Attend the office hours**
+- **Be an attentive student so that the professor will know about me**
+- ***Make a friend and visit their lab at least once a week***
+-
+- [[Machine Learning Algorithm]]
+-

@@ -1,0 +1,26 @@
+# Keyboard and peripherals
+- Built Totem Keyboard
+- Built laptop stand
+-
+- # Shelf
+- I haven't completed but I am trying to build a shelf for my room using 3D printer
+- ## Ideas
+	- Circular/ Rectangular poles and Circular supports
+		- Pros:
+			- I dot't have to worry about the orientation of the support
+		- Cons:
+			- It might be hard to perfectly make the foot vertical because it is hard to tell the orientation of the pole
+	- Rectangular poles and supports
+		- Pros:
+			- It is easier to tell if the pole is aligned straight or not
+		- Cons:
+			- It might be harder to set the support in the exactly right orientation
+	- Instead of making a thread, maybe I can make a mold in the pole where a part of the support can go in
+		-
+		- Pros:
+			- I can just slide back and forth so it is a lot easier to modular
+		- Cons:
+			- Strength issue
+			- The size of the pole has to be increased (or maybe not)
+		- [[draws/2024-11-15-11-41-00.excalidraw]]
+		-

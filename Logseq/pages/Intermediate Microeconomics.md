@@ -1,0 +1,2 @@
+- **Remember that I am taking this course for the sake of fun, and if I am not enjoying it, drop it!**
+-

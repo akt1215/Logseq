@@ -1,0 +1,25 @@
+# Major
+id:: 67366786-bb85-4333-9f80-cbd0a25d2335
+	- Biomedical Engineering
+		- so many stupid required courses (aka. Chem) but りきさん told me that Professor Nima was saying that it is great to have a biomedical engineering major people so it's probably nice to keep going as a biomedical engineering major
+	- CS
+		- I don't have to take any more chem if I am a CS major which is great, but I think there are other required courses that wouldn't be much enjoyable, but I might be wrong
+		- It is also great for jobs if I want to get a job after undergraduate rather than going to PhD
+	- MechE
+		- I don't know how MechE would get me to BCI, but it sounds like a cool major.
+		- If I do MechE, it would probably be more of the physical aspect of BCI rather than language processing
+	- EE
+		- It seems like a lot of the people in the DL class are from EE major
+	- CE
+		- In between EE and CS
+		- It might be good since I can learn both software and hardware aspect
+		- May have a lot of requirements and may not have enough time to take BCI course or other interesting course
+	- [[Info about Majors and Minors]]
+	-
+- # Terms
+- [[2024 Fall]]
+- [[2025 Spring]]
+- # Classes
+- [[Classes]]
+- # Extra Caricular
+- [[Extra Caricular]]

@@ -1,0 +1,39 @@
+## Extensions
+	- Astra Monitor (off)
+	- Blur my Shell
+	- Burn My Window
+	- Clipboard Indicator (there might be a better one)
+	- Compiz alike magic lamp effect
+	- Compiz window effect
+	- Dash to Dock
+	- Gesture Improvements
+	- GSConnect (off)
+	- Hide Top Bar
+	- Open Weather Refined
+	- User Themes
+	- Vitals
+	- Wallpaper Slideshow (Downloaded bunch of Ghibli wallpaper)
+	- Wiggle
+	- Gnome-extention
+- ## Apps
+	- Brave
+	- Chromium (maybe not needed)
+	- VS Code (vscodium might be better)
+	- Matlab
+	- Logseq
+	- Cisco Anyconnect Secure Mobility Client (From Columbia)
+	- VLC Media Player
+	- Bleachbit
+	- Japanese language pack
+	- Bottles (probably don't need it)
+	- Gnome Tweaks
+	- Ollama
+	- (Gedit?)
+- ## Setting
+- ## Else
+	- tlp
+	- preload
+	- Font (Roboto Slab)
+	- Theme (Lavanda-sea-dark, Dracula theme for terminal)
+	- Cursor (Lighted-Pixel-Blue-vr2)
+	- Keyboard Shortcuts (including window management, app launcher, virtual desktop management/ navigation)
